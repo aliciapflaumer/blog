@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-05-03T22:46:57-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Alicia Pflaumer</title><subtitle>Writings about art, new technologies, and projects</subtitle><entry><title type="html">Whiteboard Code Challenge</title><link href="http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge.html" rel="alternate" type="text/html" title="Whiteboard Code Challenge" /><published>2019-03-08T16:00:00-05:00</published><updated>2019-03-08T16:00:00-05:00</updated><id>http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge</id><content type="html" xml:base="http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/code-challenge.jpg&quot; alt=&quot;Code-Challenge-Photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tip to stay fresh and relevant:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Keep a whiteboard with a code challenge written on it, where you’ll see it everyday during the week.&lt;/p&gt;
+
+&lt;p&gt;• Use Pseudocode&lt;/p&gt;
+
+&lt;p&gt;• Break it apart&lt;/p&gt;
+
+&lt;p&gt;• Take your time&lt;/p&gt;
+
+&lt;p&gt;• Write test cases (if there is room, if not use your favorite IDE)&lt;/p&gt;
+
+&lt;p&gt;• Find a solution (and then find another one, there is always more than one way to do things)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Hodgepodge in a reading list</title><link href="http://localhost:4000/blog/self/2018/05/07/reading-list.html" rel="alternate" type="text/html" title="Hodgepodge in a reading list" /><published>2018-05-07T10:30:00-04:00</published><updated>2018-05-07T10:30:00-04:00</updated><id>http://localhost:4000/blog/self/2018/05/07/reading-list</id><content type="html" xml:base="http://localhost:4000/blog/self/2018/05/07/reading-list.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/reading-list-photo.jpg&quot; alt=&quot;Reading-List-Photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A list of books I’m currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Updated: February 23, 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;currently-reading&quot;&gt;Currently Reading&lt;/h1&gt;
+&lt;p&gt;“&lt;a href=&quot;https://www.amazon.com/gp/product/B001GSTOAM/&quot;&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/a&gt;” by Robert C. Martin&lt;/p&gt;
+
+&lt;h1 id=&quot;want-to-read&quot;&gt;Want to Read&lt;/h1&gt;
+
+&lt;p&gt;“&lt;a href=&quot;https://www.amazon.com/dp/1942952686/&quot;&gt;Reinvention Roadmap: Break the Rules to Get the Job You Want and Career You Deserve&lt;/a&gt;” by Liz Ryan&lt;/p&gt;
+
+&lt;p&gt;“&lt;a href=&quot;https://www.amazon.com/dp/007159129X/&quot;&gt;Self-Promotion for Introverts: The Quiet Guide to Getting Ahead&lt;/a&gt;” by Nancy Ancowitz&lt;/p&gt;
+
+&lt;h1 id=&quot;articles&quot;&gt;Articles&lt;/h1&gt;
+
+&lt;p&gt;“&lt;a href=&quot;https://hbr.org/2016/05/change-your-career-without-having-to-start-all-over-again&quot;&gt;Change Your Career Without Having to Start All Over Again&lt;/a&gt;” by Dorie Clark, Harvard Business Review&lt;/p&gt;
+
+&lt;p&gt;“&lt;a href=&quot;https://cacm.acm.org/news/227467-dim-prospects-for-junior-developers/fulltext&quot;&gt;Dim Prospects for Junior Developers&lt;/a&gt;” by Jake Widman, ACM NEWS&lt;/p&gt;
+
+&lt;p&gt;– &lt;br /&gt;
+&lt;em&gt;FWIW, during my time as a student at General Assembly I created my own app to do something just as similiar to help track the books on your stack, if you’re curious you can check it out &lt;a href=&quot;https://aliciapflaumer.github.io/got-reads-front-end/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Project: Learning React with the game of Tic-Tac-Toe</title><link href="http://localhost:4000/blog/web/development/2018/03/04/learning-react-and-tic-tac-toe.html" rel="alternate" type="text/html" title="Project: Learning React with the game of Tic-Tac-Toe" /><published>2018-03-04T16:00:00-05:00</published><updated>2018-03-04T16:00:00-05:00</updated><id>http://localhost:4000/blog/web/development/2018/03/04/learning-react-and-tic-tac-toe</id><content type="html" xml:base="http://localhost:4000/blog/web/development/2018/03/04/learning-react-and-tic-tac-toe.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/screencapture-learning-react-ticTacToe.png&quot; alt=&quot;Screenshot of tic-tac-toe game&quot; /&gt; &lt;br /&gt;
+&lt;em&gt;This is a Tic-Tac-Toe game built with ReactJS.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The next project on my list of new tech that I wanted to become more familiar with and learn is React. I have been seeing it as yet another hot skill to know. So, of course, the first place I go to in my search for knowledge is the &lt;a href=&quot;https://reactjs.org/&quot;&gt;React website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I started off with reading through the &lt;a href=&quot;https://reactjs.org/docs/hello-world.html&quot;&gt;quick start guide documentation&lt;/a&gt;. React is component-based… like Angular. It uses ES6 syntax, such as, &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow functions&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;classes&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;template literals&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;const&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;let&lt;/code&gt; statements. I learned about JSX, rendering elements, components, and props. I’ve learned that HTML is written within the JavaScript code, so that can be something to get used to. &lt;em&gt;For example:&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function Square(props) {
+  return (
+    &amp;lt;button className=&quot;square&quot; onClick={props.onClick}&amp;gt;
+    {props.value}
+    &amp;lt;/button&amp;gt;
+  );
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Jumping into the &lt;a href=&quot;https://reactjs.org/tutorial/tutorial.html&quot;&gt;tutorial&lt;/a&gt; which uses a simple Tic-Tac-Toe game, I wanted to build this on my local machine, opposed to using the alternative method in CodePen, and also learn how to install React. I followed along with the installation instructions to create my new app, which seemed easy enough.&lt;/p&gt;
+
+&lt;p&gt;There are really only two files that I created myself for the tic-tac-toe tutorial: &lt;code class=&quot;highlighter-rouge&quot;&gt;index.css&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;index.js&lt;/code&gt;, the rest is created for me during the &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install&lt;/code&gt; installation process with &lt;code class=&quot;highlighter-rouge&quot;&gt;create-react-app&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve gone through the entire tutorial and I can’t say that I’m completely comfortable using React on a new project of my own. But I have an idea of the workflow, like everything that is learned it’ll take some repetition, and some real-world experience is the best way to learn new tech.&lt;/p&gt;
+
+&lt;p&gt;I went through the deployment steps as well, which weren’t to bad. It is deployed on gh-pages &lt;a href=&quot;https://aliciapflaumer.github.io/learning-react/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the end of the tutorial, there are suggested additions that one might want to try to continue learning.&lt;/p&gt;
+
+&lt;p&gt;What I would like to work on next:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;When there is a tie in the game, let that display to the user.&lt;/li&gt;
+  &lt;li&gt;When someone wins, highlight the row of the 3 squares.&lt;/li&gt;
+  &lt;li&gt;When no one wins, display the result as a draw.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you want to check out my code, you can see it on my &lt;a href=&quot;https://github.com/aliciapflaumer/learning-react&quot;&gt;Github repo&lt;/a&gt;. I wrote frequent and thorough commits, from start to finish, to have a track record of my process.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a Tic-Tac-Toe game built with ReactJS.</summary></entry><entry><title type="html">Project: Building a chat app with Phoenix</title><link href="http://localhost:4000/blog/web/development/2018/02/18/project-learning-to-build-a-chat-app-with-Phoenix.html" rel="alternate" type="text/html" title="Project: Building a chat app with Phoenix" /><published>2018-02-18T08:00:00-05:00</published><updated>2018-02-18T08:00:00-05:00</updated><id>http://localhost:4000/blog/web/development/2018/02/18/project-learning-to-build-a-chat-app-with-Phoenix</id><content type="html" xml:base="http://localhost:4000/blog/web/development/2018/02/18/project-learning-to-build-a-chat-app-with-Phoenix.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/screencapture-babble-herokuapp-chat.png&quot; alt=&quot;Screenshot of application&quot; /&gt; &lt;br /&gt;
+&lt;em&gt;The image is a screencapture taken of a chat during a live presentation of the project.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Last month when I participated in a &lt;a href=&quot;https://aliciapflaumer.github.io/alicia/web/development/hackathon/2018/01/26/getting-out-of-my-own-way.html&quot;&gt;hackathon&lt;/a&gt; I also learned about a new framework, new to me that is, from one of my teammates. She, a computer science student, showed me a chat application that she had built for class. I had never heard of this framework before so I was intrigued and thought to myself that I would like to put that on my list of things to try to learn.&lt;/p&gt;
+
+&lt;p&gt;So what is Phoenix? It is a framework that uses the Elixir programming language, which looks a lot like Ruby on Rails. Just like Ruby we have a router, models, views, and controllers. We also have HTML, CSS, and Javascript. (Checkout the &lt;a href=&quot;https://hexdocs.pm/phoenix/overview.html&quot;&gt;Phoenix docs overview&lt;/a&gt; page if you care to dive deeper. &lt;a href=&quot;https://elixir-lang.org/&quot;&gt;Elixir&lt;/a&gt; also has their own documentation.) So it seems like the front-end and back-end are married together in a nice &amp;amp; neat package.
+Sweeeet!!&lt;/p&gt;
+
+&lt;p&gt;I wanted to just build a basic application to become more familiar with this technology. Nothing fancy.&lt;/p&gt;
+
+&lt;p&gt;I did some research, and by that I mean I searched on Google, and found a great &lt;a href=&quot;https://www.youtube.com/watch?v=irDC1nWKhZ8&quot;&gt;Youtube tutorial&lt;/a&gt; that demonstrated through the process step-by-step in 3 video segments. This wasn’t the first of what I found in my search but it most definitely was the most helpful. There are a lot of steps in the process, and I’ll say that authentication took the most time.&lt;/p&gt;
+
+&lt;p&gt;The project that I’ve titled ‘Babble’ is a work in progress. I may or may not expand on it, and personalize it more. There are a couple of features that are on the ‘nice to have’ wishlist, such as:&lt;/p&gt;
+
+&lt;p&gt;• Show Username instead of email address after the ‘Hello there’ message, and within the chat dialogue box.&lt;/p&gt;
+
+&lt;p&gt;• Currently once a user leaves the chat page, the previous chat is not saved.&lt;/p&gt;
+
+&lt;p&gt;• Currently the app isn’t exclusive to specific user groups, whomever is signed-in is seen as online.&lt;/p&gt;
+
+&lt;p&gt;The experience was good to become aware of all that goes into building a chat application.&lt;/p&gt;
+
+&lt;p&gt;Feel free to try out the application that I built &lt;a href=&quot;https://babble.herokuapp.com/&quot;&gt;here&lt;/a&gt; yourself, and you never know whom you might find online with you.&lt;/p&gt;
+
+&lt;p&gt;If your curious about the code you can checkout it on my &lt;a href=&quot;https://github.com/aliciapflaumer/babble&quot;&gt;Github&lt;/a&gt; repo.&lt;/p&gt;</content><author><name></name></author><summary type="html">The image is a screencapture taken of a chat during a live presentation of the project.</summary></entry><entry><title type="html">Getting out of my own way and into my first hackathon</title><link href="http://localhost:4000/blog/web/development/hackathon/2018/01/26/getting-out-of-my-own-way.html" rel="alternate" type="text/html" title="Getting out of my own way and into my first hackathon" /><published>2018-01-26T16:00:00-05:00</published><updated>2018-01-26T16:00:00-05:00</updated><id>http://localhost:4000/blog/web/development/hackathon/2018/01/26/getting-out-of-my-own-way</id><content type="html" xml:base="http://localhost:4000/blog/web/development/hackathon/2018/01/26/getting-out-of-my-own-way.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/wonder-woman-giphy.gif&quot; alt=&quot;Wonder Woman&quot; /&gt; &lt;br /&gt;
+&lt;em&gt;via Giphy&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For anybody that knows me, they would know how difficult it is for me to be social in large crowds, and by large I mean more than 5. But I’ve been really pushing myself lately to improve my networking skills, like attending more tech-focused Meetups.&lt;/p&gt;
+
+&lt;p&gt;Last weekend I participated in my first hackathon. The event took place at OviaHealth in downtown Boston, and it was the first time they were holding the Technology Supporting Women Hackathon. The event’s focus was around women’s health. The participants included developers, designers, clinicians, and others.&lt;/p&gt;
+
+&lt;p&gt;Friday night was the kickoff where introductions were made, rules and ideas were discussed, and teams were brought together.&lt;/p&gt;
+
+&lt;p&gt;My group included a QA Engineer, UI Designer, two computer science students, and myself as developer. Our group came up with the idea of a social networking-type site for Moms to journal about raising kids. We started with whiteboarding ideas with our UI Designer taking the lead and hashing out the problem that we want our product to solve.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/whiteboarding.png&quot; alt=&quot;whiteboarding&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Photos of whiteboarding results&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The next day on Saturday, we were back together around 9 in the morning, and had until 5 pm to work and prepare a presentation.&lt;/p&gt;
+
+&lt;p&gt;We got off to a rough start, the hackathon experience was new to all of us, but one. We had to decide what framework we wanted to code in. Should we use Phoenix? Angular? Javascript?&lt;/p&gt;
+
+&lt;p&gt;Our product was going to have a lot of functionality. I am new to web development, I’m starting to learn Angular (see &lt;a href=&quot;https://aliciapflaumer.github.io/alicia/frontend/development/2018/01/05/project-learning-angularjs-part-1.html&quot;&gt;previous post&lt;/a&gt;) but I wasn’t confident that I would be able build the many functionalities with it in the short timeframe. We finally decided on Javascript on the &lt;a href=&quot;https://github.com/ovia-hackathon/mom-journal-front&quot;&gt;front-end&lt;/a&gt; and Ruby on Rails for a &lt;a href=&quot;https://github.com/ovia-hackathon/mom-journal-back&quot;&gt;back-end&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As we started coding kind of late, it seemed unlikely that we would have a workable product for the 3-minute presentation. So our UI Designer, simultaneously worked on a prototype version using InVision that would have clickable hotspots, and that is what was presented.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/invision-app.png&quot; alt=&quot;InVision app&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Screenshots of prototype version of the Calm Mom application&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end of it all, I was really happy with having the experience to work with people from different backgrounds whom I had never met before Friday night. If I could do it again, with the knowledge of what I learned from this first experience, I probably would try to code it in Angular, because I think the framework would be better for multi-pages. Also, to push myself in new and somewhat uncomfortable ways to become a better developer.&lt;/p&gt;</content><author><name></name></author><summary type="html">via Giphy</summary></entry><entry><title type="html">Project: Learning Angular</title><link href="http://localhost:4000/blog/frontend/development/2018/01/05/project-learning-angularjs-part-1.html" rel="alternate" type="text/html" title="Project: Learning Angular" /><published>2018-01-05T10:00:00-05:00</published><updated>2018-01-05T10:00:00-05:00</updated><id>http://localhost:4000/blog/frontend/development/2018/01/05/project-learning-angularjs-part-1</id><content type="html" xml:base="http://localhost:4000/blog/frontend/development/2018/01/05/project-learning-angularjs-part-1.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/img_05_snow.jpg&quot; alt=&quot;Snow&quot; /&gt;
+&lt;em&gt;A path is cleared to make way for Angular. Photo by Alicia Pflaumer&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;During the first blizzard of 2018, what better thing is there to do than to code in pajamas?&lt;/p&gt;
+
+&lt;p&gt;In my job search, one technology that I’ve been seeing in job descriptions is Angular. What is Angular? Angular 2 is a TypeScript-based open-source front-end web application platform.&lt;/p&gt;
+
+&lt;p&gt;In planning for a project, I started to think about what I could build with it as I’m learning the technology. I decided to just build a basic application.&lt;/p&gt;
+
+&lt;p&gt;I’ve been referring to the &lt;a href=&quot;https://angular.io/&quot;&gt;Angular docs&lt;/a&gt; and making some use of tutorials on YouTube.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://aliciapflaumer.github.io/angular-app/&quot;&gt;app&lt;/a&gt; that I’m building currently has navigation and routes to more than one component. I’m pretty excited to get to that point actually, and to get it deployed.&lt;/p&gt;
+
+&lt;p&gt;The idea that I have seems like a real-world scenerio, of an app that does many things. For example, building a simple quiz and have it be within one component. And learning how to build a simple sprite game with Phaser (a technology that I’ve been wanting to dig into), and have that be another component within this one application. Then, maybe, have another component be a “list of things.”&lt;/p&gt;
+
+&lt;p&gt;This is a work-in-progress.&lt;/p&gt;
+
+&lt;p&gt;If you want to checkout my &lt;a href=&quot;https://github.com/aliciapflaumer/angular-app&quot;&gt;Github repo&lt;/a&gt; to see my code, feel free.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Correction: An earlier version referenced the platform as AngularJS, when actually it is just Angular.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A path is cleared to make way for Angular. Photo by Alicia Pflaumer</summary></entry><entry><title type="html">Art reflection: Nicholas Nixon</title><link href="http://localhost:4000/blog/art/photography/2017/12/28/art-reflection-nicholas-nixon.html" rel="alternate" type="text/html" title="Art reflection: Nicholas Nixon" /><published>2017-12-28T15:44:00-05:00</published><updated>2017-12-28T15:44:00-05:00</updated><id>http://localhost:4000/blog/art/photography/2017/12/28/art-reflection-nicholas-nixon</id><content type="html" xml:base="http://localhost:4000/blog/art/photography/2017/12/28/art-reflection-nicholas-nixon.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/img_02-gallery.jpg&quot; alt=&quot;Gallery&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Today was cold outside,&lt;/strong&gt; it would have been easy to just stay warm at home. I decided to step away from the computer and go see a photography exhibit at the Institute of Contemporay Art in Boston. Afterall, one of my favorite documentary photographers was on exhibit. The show is titled “Nicholas Nixon: Persistance of Vision.” There is a fantastic quote by the artist displayed under the title, “The world is infinitely more interesting than any of my opinions about it.”&lt;/p&gt;
+
+&lt;p&gt;Reflection, admiration, inspiration are words one might think of when they view the photographs by Nixon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/img_01.jpg&quot; alt=&quot;Sam, 1992, Nicholas Nixon&quot; /&gt;
+&lt;em&gt;Sam, 1992, Nicholas Nixon&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The first time I was introduced to his work was on recommendation back in the ‘90’s by one of my photography professors and mentors. I was a senior at Montserrat College of Art and during that time in my life I was determined to be a documentary photographer. I loved working in the darkroom and I liked telling stories with my camera, I’m not a writer, I express myself best with visuals.&lt;/p&gt;
+
+&lt;p&gt;A lot of Nixon’s photographs are taken of family and relationships.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/img_03.jpg&quot; alt=&quot;1999, Nicholas Nixon&quot; /&gt;
+&lt;em&gt;1999, Nicholas Nixon&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The photos that stand out to me the most are the close-ups. I relate to that style of photography, capturing subjects closer than you’d normally expect them to be – sometimes even uncomfortable-like.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/img_04.jpg&quot; alt=&quot;Nicholas Nixon&quot; /&gt;
+&lt;em&gt;Nicholas Nixon&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The exhibit is up until April 28, 2018.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Getting started with blogging: job search, new tech, and projects</title><link href="http://localhost:4000/blog/job/search/2017/12/20/my-first-blog-post.html" rel="alternate" type="text/html" title="Getting started with blogging: job search, new tech, and projects" /><published>2017-12-20T11:26:00-05:00</published><updated>2017-12-20T11:26:00-05:00</updated><id>http://localhost:4000/blog/job/search/2017/12/20/my-first-blog-post</id><content type="html" xml:base="http://localhost:4000/blog/job/search/2017/12/20/my-first-blog-post.html">&lt;p&gt;I’m utilizing LinkedIn, making connections, sending cold apps, and getting some phone screens, but the process feels like it’s moving very slow.&lt;/p&gt;
+
+&lt;p&gt;Here, I will try to write about my thought process in my job search,
+about what new technologies I want to learn or are learning, and about projects that I’m working on.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Updated 12/29: To add more about the build process&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The first step to blogging was actually creating this site. Taking some inspiration from a friend, I decided to learn about creating it with Jekyll. I liked the idea of keeping up with my git skills while blogging. I can write posts in the Atom text editor, and commit &amp;amp; push to my gh-pages branch on Github to make posts live.&lt;/p&gt;
+
+&lt;p&gt;To get started, I just followed the instructions in the &lt;a href=&quot;https://jekyllrb.com/docs/home/&quot;&gt;Jekyll docs&lt;/a&gt;. This was actually a good continued learning curve. When something didn’t work, I referred back to the docs to troubleshoot the issue. To get it to work I created a new &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch locally via the command line in my project folder, and then pushed to Github. To make my first post live, on Github I merged the up-to-date master branch into the gh-pages branch.&lt;/p&gt;
+
+&lt;p&gt;Happy to share &amp;amp; thank you for reading.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’m utilizing LinkedIn, making connections, sending cold apps, and getting some phone screens, but the process feels like it’s moving very slow.</summary></entry></feed>
