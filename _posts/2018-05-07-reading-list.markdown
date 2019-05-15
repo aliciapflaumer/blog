@@ -8,9 +8,12 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: February 23, 2019**
+**Updated: May 14, 2019**
 
 # Currently Reading
+
+"[No Walls and the Recurring Dream: A Memoir][ani-difranco-memoir]" by Ani DiFranco
+
 "[Clean Code: A Handbook of Agile Software Craftsmanship][clean-code]" by Robert C. Martin
 
 # Want to Read
@@ -34,3 +37,4 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 [introverts]: https://www.amazon.com/dp/007159129X/
 [hbr-article-starting-over]: https://hbr.org/2016/05/change-your-career-without-having-to-start-all-over-again
 [clean-code]: https://www.amazon.com/gp/product/B001GSTOAM/
+[ani-difranco-memoir]: https://www.amazon.com/gp/product/B07JYSMCK1/
