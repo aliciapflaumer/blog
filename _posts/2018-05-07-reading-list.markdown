@@ -12,31 +12,23 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 
 # Have Read
 
-"[No Walls and the Recurring Dream: A Memoir][ani-difranco-memoir]" by Ani DiFranco
+"[No Walls and the Recurring Dream: A Memoir](https://www.amazon.com/gp/product/B07JYSMCK1/){:target="_blank"}" by Ani DiFranco
 
 # Currently Reading
 
-"[Clean Code: A Handbook of Agile Software Craftsmanship][clean-code]" by Robert C. Martin
+"[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/B001GSTOAM/){:target="_blank"}" by Robert C. Martin
 
 # Want to Read
 
-"[Reinvention Roadmap: Break the Rules to Get the Job You Want and Career You Deserve][reinvention-roadmap]" by Liz Ryan
+"[Reinvention Roadmap: Break the Rules to Get the Job You Want and Career You Deserve](https://www.amazon.com/dp/1942952686/){:target="_blank"}" by Liz Ryan
 
-"[Self-Promotion for Introverts: The Quiet Guide to Getting Ahead][introverts]" by Nancy Ancowitz
+"[Self-Promotion for Introverts: The Quiet Guide to Getting Ahead](https://www.amazon.com/dp/007159129X/){:target="_blank"}" by Nancy Ancowitz
 
 # Articles
 
-"[Change Your Career Without Having to Start All Over Again][hbr-article-starting-over]" by Dorie Clark, Harvard Business Review
+"[Change Your Career Without Having to Start All Over Again](https://hbr.org/2016/05/change-your-career-without-having-to-start-all-over-again){:target="_blank"}" by Dorie Clark, Harvard Business Review
 
-"[Dim Prospects for Junior Developers][dim-prospects-junior-developers]" by Jake Widman, ACM NEWS
+"[Dim Prospects for Junior Developers](https://cacm.acm.org/news/227467-dim-prospects-for-junior-developers/fulltext){:target="_blank"}" by Jake Widman, ACM NEWS
 
 -- <br>
-*FWIW, during my time as a student at General Assembly I created my own app to do something just as similiar to help track the books on your stack, if you're curious you can check it out [here][got-reads-app].*
-
-[dim-prospects-junior-developers]: https://cacm.acm.org/news/227467-dim-prospects-for-junior-developers/fulltext
-[got-reads-app]: https://aliciapflaumer.github.io/got-reads-front-end/
-[reinvention-roadmap]: https://www.amazon.com/dp/1942952686/
-[introverts]: https://www.amazon.com/dp/007159129X/
-[hbr-article-starting-over]: https://hbr.org/2016/05/change-your-career-without-having-to-start-all-over-again
-[clean-code]: https://www.amazon.com/gp/product/B001GSTOAM/
-[ani-difranco-memoir]: https://www.amazon.com/gp/product/B07JYSMCK1/
+*FWIW, during my time as a student at General Assembly I created my own app to do something just as similiar to help track the books on your stack, if you're curious you can check it out [here](https://aliciapflaumer.github.io/got-reads-front-end/){:target="_blank"}.*
