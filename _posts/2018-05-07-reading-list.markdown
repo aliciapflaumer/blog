@@ -8,13 +8,15 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: July 8, 2019**
+**Updated: July 11, 2019**
 
 # Have Read
 
 "[No Walls and the Recurring Dream: A Memoir](https://www.amazon.com/gp/product/B07JYSMCK1/){:target="_blank"}" by Ani DiFranco
 
 # Currently Reading
+
+"[A People's History of the United States](https://www.amazon.com/gp/product/B015XEWZHI/){:target="_blank"}" by Howard Zinn
 
 "[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/B001GSTOAM/){:target="_blank"}" by Robert C. Martin
 
