@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Alicia Pflaumer</title>
+  <meta name="description" content="This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a devel...">
+
+  <link rel="stylesheet" href="/blog/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html">
+  <link rel="alternate" type="application/rss+xml" title="Alicia Pflaumer" href="/blog/feed.xml">
+
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/blog/css/jekyll-theme-cayman.scss">
+  <link rel="stylesheet" href="/blog/css/normalize.scss">
+  <link rel="stylesheet" href="/blog/css/rouge-github.scss">
+  <link rel="stylesheet" href="/blog/css/variables.scss">
+
+  
+</head>
+
+  <body>
+    <section class="page-header">
+  <h1 class="project-name">Alicia Pflaumer</h1>
+  <h2 class="project-tagline">Writings about art, new technologies, and projects</h2>
+  <a href="/blog/" class="btn">Home</a>
+  <a href="https://aliciapflaumer.github.io/" class="btn">Portfolio</a>
+  <a href="/blog/about/" class="btn">About</a>
+</section>
+
+    <section class="main-content">
+      <h2>6 Browsers for Web Developers: Which one do you use?</h2>
+<p class="meta">September 26, 2019</p>
+
+<p>This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a developer gets used to one, they may neglect the others - until it comes time for testing. Admit it, this is familiar to you too, right?</p>
+
+<p>According to W3Counter, <strong>Chrome</strong> is the <a href="https://www.w3counter.com/globalstats.php" target="_blank">most popular browser</a> amongst users followed by <strong>Safari</strong> as second, then <strong>Internet Explorer</strong> and <strong>Edge</strong>, <strong>FireFox</strong>, and lastly <strong>Opera</strong>.</p>
+
+<p>In this article I have layed out the specifications for each common browser, including the initial release year, the programming languages the software was written in, and the engine that renders the webpage. [<em>Source: Wikipedia</em>]</p>
+
+<p><strong>1. Google Chrome</strong><br />
+  Initial release year: 2008<br />
+  Programming languages: C, C++, JavaScript, Java (Android app only), Python<br />
+  Engines: WebKit, Chrome V8, Blink<br />
+  Mobile version: Yes</p>
+
+<p><em>Chrome dev tools:</em><br />
+<img src="http://localhost:4000/blog/assets/chrome-dev-tools.jpg" alt="Chrome-Dev-Tools" /></p>
+
+<p>The common features between each browser’s developer console, is a select option – a tool that is used to inspect a specific element on the webpage – and the elements tab – to help test new CSS, and hide parts that may be causing an issue with rendering of the page.</p>
+
+<p>All of the browsers have the ability to test responsiveness across multiple screen sizes - a very helpful tool indeed.</p>
+
+<p><strong>2. Apple Safari</strong><br />
+  Initial release year: 2003<br />
+  Programming languages: C++, Objective-C<br />
+  Engines: Webkit, Nitro<br />
+  Mobile version: Yes</p>
+
+<p><em>Safari dev tools:</em><br />
+<img src="http://localhost:4000/blog/assets/safari-dev-tools.jpg" alt="Safari-Dev-Tools" /></p>
+
+<p>While the console seems to be similiar across all browsers, some different features standout in a few. Such as, Safari’s tool to add rulers to a page:</p>
+
+<p><img src="http://localhost:4000/blog/assets/safari-console-rulers.jpg" alt="Safari-Console-Tools" /></p>
+
+<p><strong>3. Microsoft Internet Explorer</strong><br />
+  Initial release year: 1995<br />
+  Programming languages: C++<br />
+  Engine: Trident in first release of IE 4.0 in 1997<br />
+  Mobile version: No<br />
+  <em>Discontinued, still maintained for Windows</em><br />
+  <em>No longer supported for macOS</em><br /></p>
+
+<p>As a developer on a macOS, one may find it difficult to debug IE specific display bugs, if you don’t have a PC with Internet Explorer handy. There IS a way to turn your mac into a virtual PC with an application called <a href="https://www.parallels.com/landingpage/pd/general/" target="_blank">Parallels</a>. The software has been around for awhile, but there is a catch – although there is a free trial to start, you ultimately would need to buy a license to use the application.</p>
+
+<p>It seems Microsoft is slowly trying to move people away from IE and onto their new Edge browser. So hopefully we won’t have to endure the virtual pain of including <a href="https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/hh801214(v=vs.85)" target="_blank">IE conditional comments</a> in our HTML markup much longer:</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;html&gt;</span>
+  <span class="c">&lt;!--[if IE]&gt;
+    This content is ignored in IE10 and other browsers.
+    In older versions of IE it renders as part of the page.
+  &lt;![endif]--&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
+
+<p>Though, there is some good news macOS users! Earlier this year <a href="https://blogs.windows.com/msedgedev/2019/05/20/microsoft-edge-macos-canary-preview/" target="_blank">Microsoft released a beta version</a> of Edge for mac – the default search engine is Microsoft’s own Bing. The mac version of the browser is supposed to have the same look and feel as the Windows version. So, hooray Microsoft!</p>
+
+<p><strong>4. Microsoft Edge</strong><br />
+  Initial release year:<br />
+    Windows 10, Xbox One: 2015<br />
+    Android and iOS: 2017<br />
+    macOS: 2019<br />
+  Programming languages: C++, C#<br />
+  Engines: EdgeHTML (Chromium-based using Blink), Chakra (JScript)<br />
+  Mobile version: Yes</p>
+
+<p><em>Edge dev tools:</em><br />
+<img src="http://localhost:4000/blog/assets/edge-dev-tools.jpg" alt="Edge-Dev-Tools" /></p>
+
+<p><strong>5. Mozilla Firefox</strong><br />
+  Initial release year: 2002<br />
+  Programming languages: JavaScript, Cascading Style Sheets, C, C++, XBL, XUL<br />
+  Engines: SpiderMonkey, Gecko<br />
+  Mobile version: Yes</p>
+
+<p><em>FireFox dev tools:</em><br />
+<img src="http://localhost:4000/blog/assets/firefox-dev-tools.jpg" alt="Firefox-Dev-Tools" /></p>
+
+<p>Mozilla has their own alignment tool, when using the selection tool horizontal and verical hashed lines are shown – I suppose this could be useful, too.</p>
+
+<p><img src="http://localhost:4000/blog/assets/mozilla-inspector-screenshot.jpg" alt="Mozilla-Inspector" /></p>
+
+<p><strong>6. Opera</strong><br />
+  Initial release year: 1995<br />
+  Programming languages: C++<br />
+  Engines: Chrome V8, Blink<br /></p>
+
+<p>Opera uses the same rendering engine as <strong>Chrome</strong> – so the developer console looks the same there too. Earlier this year, the Opera team released a version they referred to as <a href="https://blogs.opera.com/desktop/2019/02/opera-r-3-developer" target="_blank">Reborn 3</a>, focused on the the browsers “look and functionality”, according to their blog.</p>
+
+<p><em>Opera dev tools:</em><br />
+<img src="http://localhost:4000/blog/assets/opera-dev-tools.jpg" alt="Opera-Dev-Tools" /></p>
+
+<p>Well, that’s about it. I hope this is helpful and maybe you’ll be motivated to do a little exploring of your own with a new browser that you regularly do not use.</p>
+
+<p><em>Images: Screencaptures of individual webpages by Alicia Pflaumer on macOS</em></p>
+
+
+    </section>
+    <footer class="site-footer">
+  <span class="site-footer-owner">This blog is maintained by <a href="https://github.com/aliciapflaumer">aliciapflaumer</a> | 2019</span>
+</footer>
+
+  </body>
+</html>

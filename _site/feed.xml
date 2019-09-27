@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-07-11T20:31:54-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Alicia Pflaumer</title><subtitle>Writings about art, new technologies, and projects</subtitle><entry><title type="html">Whiteboard Code Challenge</title><link href="http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge.html" rel="alternate" type="text/html" title="Whiteboard Code Challenge" /><published>2019-03-08T16:00:00-05:00</published><updated>2019-03-08T16:00:00-05:00</updated><id>http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge</id><content type="html" xml:base="http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/code-challenge.jpg&quot; alt=&quot;Code-Challenge-Photo&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-09-26T21:47:44-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Alicia Pflaumer</title><subtitle>Writings about art, new technologies, and projects</subtitle><entry><title type="html">6 Browsers for Web Developers: Which one do you use?</title><link href="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html" rel="alternate" type="text/html" title="6 Browsers for Web Developers: Which one do you use?" /><published>2019-09-26T08:00:00-04:00</published><updated>2019-09-26T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2019/09/26/browser-support-web-development</id><content type="html" xml:base="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html">&lt;p&gt;This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a developer gets used to one, they may neglect the others - until it comes time for testing. Admit it, this is familiar to you too, right?&lt;/p&gt;
+
+&lt;p&gt;According to W3Counter, &lt;strong&gt;Chrome&lt;/strong&gt; is the &lt;a href=&quot;https://www.w3counter.com/globalstats.php&quot; target=&quot;_blank&quot;&gt;most popular browser&lt;/a&gt; amongst users followed by &lt;strong&gt;Safari&lt;/strong&gt; as second, then &lt;strong&gt;Internet Explorer&lt;/strong&gt; and &lt;strong&gt;Edge&lt;/strong&gt;, &lt;strong&gt;FireFox&lt;/strong&gt;, and lastly &lt;strong&gt;Opera&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this article I have layed out the specifications for each common browser, including the initial release year, the programming languages the software was written in, and the engine that renders the webpage. [&lt;em&gt;Source: Wikipedia&lt;/em&gt;]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Google Chrome&lt;/strong&gt;&lt;br /&gt;
+  Initial release year: 2008&lt;br /&gt;
+  Programming languages: C, C++, JavaScript, Java (Android app only), Python&lt;br /&gt;
+  Engines: WebKit, Chrome V8, Blink&lt;br /&gt;
+  Mobile version: Yes&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Chrome dev tools:&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/blog/assets/chrome-dev-tools.jpg&quot; alt=&quot;Chrome-Dev-Tools&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The common features between each browser’s developer console, is a select option – a tool that is used to inspect a specific element on the webpage – and the elements tab – to help test new CSS, and hide parts that may be causing an issue with rendering of the page.&lt;/p&gt;
+
+&lt;p&gt;All of the browsers have the ability to test responsiveness across multiple screen sizes - a very helpful tool indeed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Apple Safari&lt;/strong&gt;&lt;br /&gt;
+  Initial release year: 2003&lt;br /&gt;
+  Programming languages: C++, Objective-C&lt;br /&gt;
+  Engines: Webkit, Nitro&lt;br /&gt;
+  Mobile version: Yes&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Safari dev tools:&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/blog/assets/safari-dev-tools.jpg&quot; alt=&quot;Safari-Dev-Tools&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While the console seems to be similiar across all browsers, some different features standout in a few. Such as, Safari’s tool to add rulers to a page:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/safari-console-rulers.jpg&quot; alt=&quot;Safari-Console-Tools&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Microsoft Internet Explorer&lt;/strong&gt;&lt;br /&gt;
+  Initial release year: 1995&lt;br /&gt;
+  Programming languages: C++&lt;br /&gt;
+  Engine: Trident in first release of IE 4.0 in 1997&lt;br /&gt;
+  Mobile version: No&lt;br /&gt;
+  &lt;em&gt;Discontinued, still maintained for Windows&lt;/em&gt;&lt;br /&gt;
+  &lt;em&gt;No longer supported for macOS&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a developer on a macOS, one may find it difficult to debug IE specific display bugs, if you don’t have a PC with Internet Explorer handy. There IS a way to turn your mac into a virtual PC with an application called &lt;a href=&quot;https://www.parallels.com/landingpage/pd/general/&quot; target=&quot;_blank&quot;&gt;Parallels&lt;/a&gt;. The software has been around for awhile, but there is a catch – although there is a free trial to start, you ultimately would need to buy a license to use the application.&lt;/p&gt;
+
+&lt;p&gt;It seems Microsoft is slowly trying to move people away from IE and onto their new Edge browser. So hopefully we won’t have to endure the virtual pain of including &lt;a href=&quot;https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/hh801214(v=vs.85)&quot; target=&quot;_blank&quot;&gt;IE conditional comments&lt;/a&gt; in our HTML markup much longer:&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;c&quot;&gt;&amp;lt;!--[if IE]&amp;gt;
+    This content is ignored in IE10 and other browsers.
+    In older versions of IE it renders as part of the page.
+  &amp;lt;![endif]--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Though, there is some good news macOS users! Earlier this year &lt;a href=&quot;https://blogs.windows.com/msedgedev/2019/05/20/microsoft-edge-macos-canary-preview/&quot; target=&quot;_blank&quot;&gt;Microsoft released a beta version&lt;/a&gt; of Edge for mac – the default search engine is Microsoft’s own Bing. The mac version of the browser is supposed to have the same look and feel as the Windows version. So, hooray Microsoft!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Microsoft Edge&lt;/strong&gt;&lt;br /&gt;
+  Initial release year:&lt;br /&gt;
+    Windows 10, Xbox One: 2015&lt;br /&gt;
+    Android and iOS: 2017&lt;br /&gt;
+    macOS: 2019&lt;br /&gt;
+  Programming languages: C++, C#&lt;br /&gt;
+  Engines: EdgeHTML (Chromium-based using Blink), Chakra (JScript)&lt;br /&gt;
+  Mobile version: Yes&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Edge dev tools:&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/blog/assets/edge-dev-tools.jpg&quot; alt=&quot;Edge-Dev-Tools&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Mozilla Firefox&lt;/strong&gt;&lt;br /&gt;
+  Initial release year: 2002&lt;br /&gt;
+  Programming languages: JavaScript, Cascading Style Sheets, C, C++, XBL, XUL&lt;br /&gt;
+  Engines: SpiderMonkey, Gecko&lt;br /&gt;
+  Mobile version: Yes&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;FireFox dev tools:&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/blog/assets/firefox-dev-tools.jpg&quot; alt=&quot;Firefox-Dev-Tools&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mozilla has their own alignment tool, when using the selection tool horizontal and verical hashed lines are shown – I suppose this could be useful, too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/mozilla-inspector-screenshot.jpg&quot; alt=&quot;Mozilla-Inspector&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Opera&lt;/strong&gt;&lt;br /&gt;
+  Initial release year: 1995&lt;br /&gt;
+  Programming languages: C++&lt;br /&gt;
+  Engines: Chrome V8, Blink&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Opera uses the same rendering engine as &lt;strong&gt;Chrome&lt;/strong&gt; – so the developer console looks the same there too. Earlier this year, the Opera team released a version they referred to as &lt;a href=&quot;https://blogs.opera.com/desktop/2019/02/opera-r-3-developer&quot; target=&quot;_blank&quot;&gt;Reborn 3&lt;/a&gt;, focused on the the browsers “look and functionality”, according to their blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Opera dev tools:&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/blog/assets/opera-dev-tools.jpg&quot; alt=&quot;Opera-Dev-Tools&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, that’s about it. I hope this is helpful and maybe you’ll be motivated to do a little exploring of your own with a new browser that you regularly do not use.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Images: Screencaptures of individual webpages by Alicia Pflaumer on macOS&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a developer gets used to one, they may neglect the others - until it comes time for testing. Admit it, this is familiar to you too, right?</summary></entry><entry><title type="html">Whiteboard Code Challenge</title><link href="http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge.html" rel="alternate" type="text/html" title="Whiteboard Code Challenge" /><published>2019-03-08T16:00:00-05:00</published><updated>2019-03-08T16:00:00-05:00</updated><id>http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge</id><content type="html" xml:base="http://localhost:4000/blog/coding/2019/03/08/whiteboard-code-challenge.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/code-challenge.jpg&quot; alt=&quot;Code-Challenge-Photo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Tip to stay fresh and relevant:&lt;/em&gt;&lt;/p&gt;
 
