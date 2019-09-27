@@ -89,7 +89,7 @@ Mozilla has their own alignment tool, when using the selection tool horizontal a
   Programming languages: C++<br>
   Engines: Chrome V8, Blink<br>
 
-Opera uses the same rendering engine as **Chrome** – so the developer console looks the same there too. Earlier this year, the Opera team released a version they referred to as [Reborn 3](https://blogs.opera.com/desktop/2019/02/opera-r-3-developer){:target="_blank"}, focused on the the browsers "look and functionality", according to their blog.
+Opera uses the same rendering engine as **Chrome** – so the developer console looks the same there too. Earlier this year, the Opera team released a version they referred to as [Reborn 3](https://blogs.opera.com/desktop/2019/02/opera-r-3-developer){:target="_blank"}, focused on the browsers "look and functionality", according to their blog.
 
 *Opera dev tools:*<br>
 ![Opera-Dev-Tools]({{ "/assets/opera-dev-tools.jpg" | absolute_url }})
