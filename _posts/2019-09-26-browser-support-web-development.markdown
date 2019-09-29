@@ -7,7 +7,7 @@ categories: web
 
 This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a developer gets used to one, they may neglect the others - until it comes time for testing. Admit it, this is familiar to you too, right?
 
-According to W3Counter, **Chrome** is the [most popular browser](https://www.w3counter.com/globalstats.php){:target="_blank"} amongst users followed by **Safari** as second, then **Internet Explorer** and **Edge**, **FireFox**, and lastly **Opera**.
+According to W3Counter, **Chrome (56.8%)** is the [most popular browser](https://www.w3counter.com/globalstats.php){:target="_blank"} amongst users followed by **Safari (12.3%)** as second, then **Internet Explorer and Edge (7.8%)**, **FireFox (5.3%)**, and lastly **Opera (2.1%)**.
 
 In this article I have layed out the specifications for each common browser, including the initial release year, the programming languages the software was written in, and the engine that renders the webpage. [*Source: Wikipedia*]
 
