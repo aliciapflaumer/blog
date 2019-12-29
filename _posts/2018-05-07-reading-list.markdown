@@ -8,9 +8,12 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: July 11, 2019**
+**Updated: December 28, 2019**
 
 # Have Read
+
+"[No Better Time: The Brief, Remarkable life of Danny Lewin, the Genius Who Transformed the Internet](https://www.amazon.com/No-Better-Time-Remarkable-Transformed/dp/0306821664/){:target="_blank"}" by Molly Knight Raskin<br />
+>If you're interested in learning about how a once-small tech startup went from 0 to being one of the top Internet technology companies in the world –– you will like this book. It's really inspiring to read the story of the relationship of a student and his mentor-professor-friend, with a sad true-story ending.
 
 "[No Walls and the Recurring Dream: A Memoir](https://www.amazon.com/gp/product/B07JYSMCK1/){:target="_blank"}" by Ani DiFranco
 
