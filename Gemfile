@@ -14,7 +14,7 @@ gem "minima", "~> 2.0"
 
 gem "nokogiri", ">= 1.8.5"
 gem "jekyll", ">= 3.7.4"
-gem "rubyzip", ">= 1.2.2"
+gem "rubyzip", ">= 1.3.0"
 gem "ffi", ">= 1.9.24"
 gem 'sassc'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
