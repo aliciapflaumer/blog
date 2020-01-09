@@ -8,7 +8,7 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: December 28, 2019**
+**Updated: January 8, 2020**
 
 # Have Read
 
