@@ -19,6 +19,8 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 
 # Currently Reading
 
+"[Learning Javascript Design Patterns: A JavaScript and jQuery Developer's Guide](https://www.amazon.com/gp/product/1449331815/){:target="_blank"}" by Addy Osmani
+
 "[A People's History of the United States](https://www.amazon.com/gp/product/B015XEWZHI/){:target="_blank"}" by Howard Zinn
 
 "[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/B001GSTOAM/){:target="_blank"}" by Robert C. Martin
