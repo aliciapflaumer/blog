@@ -8,9 +8,11 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: January 8, 2020**
+**Updated: February 11, 2020**
 
 # Have Read
+
+"[A People's History of the United States](https://www.amazon.com/gp/product/B015XEWZHI/){:target="_blank"}" by Howard Zinn
 
 "[No Better Time: The Brief, Remarkable life of Danny Lewin, the Genius Who Transformed the Internet](https://www.amazon.com/No-Better-Time-Remarkable-Transformed/dp/0306821664/){:target="_blank"}" by Molly Knight Raskin<br />
 >If you're interested in learning about how a once-small tech startup went from 0 to being one of the top Internet technology companies in the world –– you will like this book. It's really inspiring to read the story of the relationship of a student and his mentor-professor-friend, with a sad true-story ending.
@@ -20,8 +22,6 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 # Currently Reading
 
 "[Learning Javascript Design Patterns: A JavaScript and jQuery Developer's Guide](https://www.amazon.com/gp/product/1449331815/){:target="_blank"}" by Addy Osmani
-
-"[A People's History of the United States](https://www.amazon.com/gp/product/B015XEWZHI/){:target="_blank"}" by Howard Zinn
 
 "[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/B001GSTOAM/){:target="_blank"}" by Robert C. Martin
 
