@@ -8,9 +8,11 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: February 11, 2020**
+**Updated: February 23, 2020**
 
 # Have Read
+
+"[It's What I do: A Photographer's Life of Love and War](https://www.amazon.com/Its-What-Do-Photographers-Life/dp/0143128418){:target="_blank"}" by Lynsey Addario
 
 "[A People's History of the United States](https://www.amazon.com/gp/product/B015XEWZHI/){:target="_blank"}" by Howard Zinn
 
