@@ -17,6 +17,7 @@ gem "jekyll", ">= 3.7.4"
 gem "rubyzip", ">= 1.3.0"
 gem "ffi", ">= 1.9.24"
 gem 'sassc'
+gem "activesupport", ">= 5.2.4.3"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
