@@ -8,9 +8,12 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: February 23, 2020**
+**Updated: June 21, 2020**
 
 # Have Read
+
+"[Becoming](https://www.amazon.com/gp/product/1524763136/){:target="_blank"}" by Michelle Obama
+>This is a refreshing and uplifting read – I hardly could put it down.
 
 "[It's What I do: A Photographer's Life of Love and War](https://www.amazon.com/Its-What-Do-Photographers-Life/dp/0143128418){:target="_blank"}" by Lynsey Addario
 
