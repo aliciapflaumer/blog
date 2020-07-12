@@ -8,7 +8,7 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: June 21, 2020**
+**Updated: July 12, 2020**
 
 # Have Read
 
@@ -25,6 +25,8 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 "[No Walls and the Recurring Dream: A Memoir](https://www.amazon.com/gp/product/B07JYSMCK1/){:target="_blank"}" by Ani DiFranco
 
 # Currently Reading
+
+"[Untamed](https://www.amazon.com/gp/product/1984801252/){:target=""}" by Glennon Doyle
 
 "[Learning Javascript Design Patterns: A JavaScript and jQuery Developer's Guide](https://www.amazon.com/gp/product/1449331815/){:target="_blank"}" by Addy Osmani
 
