@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a full-stack web developer with a background in fine arts – with a focus in photography – and web content publishing.
+I am an Artist & Technologist with a background in full-stack web development, photography, and web content publishing.
 
 --
 
