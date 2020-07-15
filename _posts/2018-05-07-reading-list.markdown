@@ -16,7 +16,7 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 >"We can do hard things", that is an important takeaway from reading this book. It's written in a sort of short story form, and I found myself laughing out loud often. Glennon is a great storyteller with a great sense of humor. A fun read with a purpose and I highly recommend for any human.
 
 "[Becoming](https://www.amazon.com/gp/product/1524763136/){:target="_blank"}" by Michelle Obama
->This is an honest and uplifting read about the former first lady, her career, her family, and the many initiatives she started (the best first lady so far in my lifetime) – I hardly could put it down.
+>This is an honest and uplifting read about the former first lady, her career, her family, and the many initiatives she started (the best first spouse so far in my lifetime) – I hardly could put it down.
 
 "[It's What I do: A Photographer's Life of Love and War](https://www.amazon.com/Its-What-Do-Photographers-Life/dp/0143128418){:target="_blank"}" by Lynsey Addario
 
