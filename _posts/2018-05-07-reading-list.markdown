@@ -13,13 +13,15 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 # Have Read
 
 "[Untamed](https://www.amazon.com/gp/product/1984801252/){:target="_blank"}" by Glennon Doyle
+>"We can do hard things", that is an important takeaway from reading this book. It's written in a sort of short story form, and I found myself laughing out loud often. Glennon is a great storyteller with a great sense of humor. A fun read with a purpose and I highly recommend for any human.
 
 "[Becoming](https://www.amazon.com/gp/product/1524763136/){:target="_blank"}" by Michelle Obama
->This is an honest and uplifting read – I hardly could put it down.
+>This is an honest and uplifting read about the former first lady, her career, her family, and the many initiatives she started (the best first lady so far in my lifetime) – I hardly could put it down.
 
 "[It's What I do: A Photographer's Life of Love and War](https://www.amazon.com/Its-What-Do-Photographers-Life/dp/0143128418){:target="_blank"}" by Lynsey Addario
 
 "[A People's History of the United States](https://www.amazon.com/gp/product/B015XEWZHI/){:target="_blank"}" by Howard Zinn
+>This book will knock you off your A**. The real story of the history of the United States, told through the perspective of underrepresented individuals/groups. Not the story told in your school-age history books.
 
 "[No Better Time: The Brief, Remarkable life of Danny Lewin, the Genius Who Transformed the Internet](https://www.amazon.com/No-Better-Time-Remarkable-Transformed/dp/0306821664/){:target="_blank"}" by Molly Knight Raskin<br />
 >If you're interested in learning about how a once-small tech startup went from 0 to being one of the top Internet technology companies in the world –– you will like this book. It's really inspiring to read the story of the relationship of a student and his mentor-professor-friend, with a sad true-story ending.
