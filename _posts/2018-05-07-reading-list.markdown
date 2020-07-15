@@ -30,6 +30,8 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 
 # Currently Reading
 
+"[The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change](https://www.amazon.com/gp/product/1491973897){:target="_blank"}" by Camille Fournier
+
 "[Learning Javascript Design Patterns: A JavaScript and jQuery Developer's Guide](https://www.amazon.com/gp/product/1449331815/){:target="_blank"}" by Addy Osmani
 
 "[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/B001GSTOAM/){:target="_blank"}" by Robert C. Martin
