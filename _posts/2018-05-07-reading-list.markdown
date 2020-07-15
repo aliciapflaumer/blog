@@ -12,7 +12,7 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 
 # Have Read
 
-"[Untamed](https://www.amazon.com/gp/product/1984801252/){:target=""}" by Glennon Doyle
+"[Untamed](https://www.amazon.com/gp/product/1984801252/){:target="_blank"}" by Glennon Doyle
 
 "[Becoming](https://www.amazon.com/gp/product/1524763136/){:target="_blank"}" by Michelle Obama
 >This is an honest and uplifting read – I hardly could put it down.
