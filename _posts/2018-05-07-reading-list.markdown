@@ -12,6 +12,8 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 
 # Have Read
 
+"[Forward](https://www.amazon.com/gp/product/006246700X/){:target="_blank"}" by Abby Wambach
+
 "[Untamed](https://www.amazon.com/gp/product/1984801252/){:target="_blank"}" by Glennon Doyle
 >"We can do hard things", that is an important takeaway from reading this book. It's written in a sort of short story form, and I found myself laughing out loud often. Glennon is a great storyteller with a great sense of humor. A fun read with a purpose and I highly recommend for any human.
 
