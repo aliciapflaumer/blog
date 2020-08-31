@@ -8,9 +8,12 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: July 25, 2020**
+**Updated: August 30, 2020**
 
 # Have Read
+
+"[Where do we go from here: Chaos or Community?](https://www.amazon.com/gp/product/0807000671/){:target="_blank"}" by Martin Luther King, Jr.
+>This is the authors last book, written in 1967. The views seem eerily chilling and relevant today – more than 50 years later. I highly recommend this book.
 
 "[Forward](https://www.amazon.com/gp/product/006246700X/){:target="_blank"}" by Abby Wambach
 
