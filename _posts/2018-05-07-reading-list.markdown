@@ -8,9 +8,12 @@ categories: self
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
-**Updated: August 30, 2020**
+**Updated: Sept 16, 2020**
 
 # Have Read
+
+"[Girl Decoded](https://www.amazon.com/gp/product/1984824767/){:target="_blank"}" by Rana el Kaliouby
+>Essentially about a woman who, through cultural discovery, learned that it is okay to be yourself, take risks, and make "crazy ideas" come true.
 
 "[Where do we go from here: Chaos or Community?](https://www.amazon.com/gp/product/0807000671/){:target="_blank"}" by Martin Luther King, Jr.
 >This is Martin Luther King, Jr.'s last book, written in 1967 – he was assassinated the following year. The views seem eerily chilling and relevant still today – more than 50 years later. I highly recommend this book.
@@ -34,6 +37,9 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 "[No Walls and the Recurring Dream: A Memoir](https://www.amazon.com/gp/product/B07JYSMCK1/){:target="_blank"}" by Ani DiFranco
 
 # Currently Reading
+
+"[Affective Computing](https://www.amazon.com/gp/product/0262661152/){:target="_blank"}" by Rosalind Picard
+>I discovered this book when reading "Girl Decoded", Picard was a mentor of Rana el Kaliouby and the two co-founded Affectiva.
 
 "[The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change](https://www.amazon.com/gp/product/1491973897){:target="_blank"}" by Camille Fournier
 
