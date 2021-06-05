@@ -27,14 +27,14 @@ form label {line-height: 2.75rem}
 </style>
 <p><sup>*</sup>Required fields</p>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSc_UITLvESAylJJxodlNgEbEU0_GVNcCjOX9VWhwj6P-YyOlA/formResponse" method="post">
-    <label>First and Last Name<sup>*</sup></label>
-    <input type="text" size="30" placeholder="" name="entry.2005620554" required>
+    <label>First and Last Name:<sup>*</sup></label>
+    <input type="text" size="30" placeholder="name" name="entry.2005620554" required>
     <br />
-    <label>Email<sup>*</sup></label>
-    <input type="email" size="30" placeholder="" name="entry.1045781291" required>
+    <label>Email:<sup>*</sup></label>
+    <input type="email" size="30" placeholder="email" name="entry.1045781291" required>
     <br />
-    <label>Phone number<sup>*</sup></label>
-    <input type="text" size="30" placeholder="" name="entry.1166974658" required>
+    <label>Phone number:<sup>*</sup></label>
+    <input type="text" size="30" placeholder="phone number" name="entry.1166974658" required>
     <br />
     <label>What is your area of artistic focus?<sup>*</sup></label><br>
     <textarea rows="5" cols="35" placeholder="Painting, Sculpture, Photography..." name="entry.1578248611" required></textarea>
