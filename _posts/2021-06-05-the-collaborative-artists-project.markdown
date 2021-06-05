@@ -23,7 +23,7 @@ If you would like to participate and be featured, or know someone who would, I'd
 *21+ years of age*
 
 <style>
-form label {line-height: 2.75rem}
+form label {line-height: 2.75rem}::placeholder {color: #9fa6a9;font-size: 14px;}
 </style>
 <p><sup>*</sup>Required fields</p>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSc_UITLvESAylJJxodlNgEbEU0_GVNcCjOX9VWhwj6P-YyOlA/formResponse" method="post">
@@ -44,3 +44,4 @@ form label {line-height: 2.75rem}
      <br />
     <button type="submit">Send</button>
 </form>
+<sub>Form created with Google Forms.</sub>

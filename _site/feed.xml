@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2021-06-05T16:12:34-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Alicia Pflaumer</title><subtitle>Writings about art, new technologies, and projects</subtitle><entry><title type="html">The Collaborative Artists Project</title><link href="http://localhost:4000/blog/web/2021/06/05/the-collaborative-artists-project.html" rel="alternate" type="text/html" title="The Collaborative Artists Project" /><published>2021-06-05T08:00:00-04:00</published><updated>2021-06-05T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2021/06/05/the-collaborative-artists-project</id><content type="html" xml:base="http://localhost:4000/blog/web/2021/06/05/the-collaborative-artists-project.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/collaborative-artists-project.jpg&quot; alt=&quot;Collaborative-Artists-Project&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2021-06-05T16:51:04-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Alicia Pflaumer</title><subtitle>Writings about art, new technologies, and projects</subtitle><entry><title type="html">The Collaborative Artists Project</title><link href="http://localhost:4000/blog/web/2021/06/05/the-collaborative-artists-project.html" rel="alternate" type="text/html" title="The Collaborative Artists Project" /><published>2021-06-05T08:00:00-04:00</published><updated>2021-06-05T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2021/06/05/the-collaborative-artists-project</id><content type="html" xml:base="http://localhost:4000/blog/web/2021/06/05/the-collaborative-artists-project.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/collaborative-artists-project.jpg&quot; alt=&quot;Collaborative-Artists-Project&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Have you ever had a friendship that was the kind that after months, even years, without seeing each other, you are able to pick up where you both left off from the last time?&lt;/p&gt;
 
@@ -12,32 +12,33 @@
 
 &lt;p&gt;If you would like to participate and be featured, or know someone who would, I’d love to hear from you. Please fill out the contact form below and let’s collaborate!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Local to northeastern states of the US – especially Rhode Island, Massachusetts.&lt;/em&gt;&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Local to northeastern states of the US&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;21+ years of age&lt;/em&gt;&lt;/p&gt;
 
 &lt;style&gt;
-form label {line-height: 2.75rem}
+form label {line-height: 2.75rem}::placeholder {color: #9fa6a9;font-size: 14px;}
 &lt;/style&gt;
 
 &lt;p&gt;&lt;sup&gt;*&lt;/sup&gt;Required fields&lt;/p&gt;
 &lt;form action=&quot;https://docs.google.com/forms/d/e/1FAIpQLSc_UITLvESAylJJxodlNgEbEU0_GVNcCjOX9VWhwj6P-YyOlA/formResponse&quot; method=&quot;post&quot;&gt;
-    &lt;label&gt;First and Last Name&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
-    &lt;input type=&quot;text&quot; size=&quot;30&quot; placeholder=&quot;&quot; name=&quot;entry.2005620554&quot; required=&quot;&quot; /&gt;
+    &lt;label&gt;First and Last Name:&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
+    &lt;input type=&quot;text&quot; size=&quot;30&quot; placeholder=&quot;name&quot; name=&quot;entry.2005620554&quot; required=&quot;&quot; /&gt;
     &lt;br /&gt;
-    &lt;label&gt;Email&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
-    &lt;input type=&quot;email&quot; size=&quot;30&quot; placeholder=&quot;&quot; name=&quot;entry.1045781291&quot; required=&quot;&quot; /&gt;
+    &lt;label&gt;Email:&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
+    &lt;input type=&quot;email&quot; size=&quot;30&quot; placeholder=&quot;email&quot; name=&quot;entry.1045781291&quot; required=&quot;&quot; /&gt;
     &lt;br /&gt;
-    &lt;label&gt;Phone number&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
-    &lt;input type=&quot;text&quot; size=&quot;30&quot; placeholder=&quot;&quot; name=&quot;entry.1166974658&quot; required=&quot;&quot; /&gt;
+    &lt;label&gt;Phone number:&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
+    &lt;input type=&quot;text&quot; size=&quot;30&quot; placeholder=&quot;phone number&quot; name=&quot;entry.1166974658&quot; required=&quot;&quot; /&gt;
     &lt;br /&gt;
     &lt;label&gt;What is your area of artistic focus?&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;&lt;br /&gt;
-    &lt;textarea rows=&quot;5&quot; cols=&quot;40&quot; placeholder=&quot;Painting, Sculpture, Photography...&quot; name=&quot;entry.1578248611&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
+    &lt;textarea rows=&quot;5&quot; cols=&quot;35&quot; placeholder=&quot;Painting, Sculpture, Photography...&quot; name=&quot;entry.1578248611&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
     &lt;br /&gt;
     &lt;label&gt;Explain how you heard about The Collaborative Artists Project.&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;&lt;br /&gt;
-    &lt;textarea rows=&quot;5&quot; cols=&quot;40&quot; placeholder=&quot;From a friend? Tell me more...&quot; name=&quot;entry.839337160&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
+    &lt;textarea rows=&quot;5&quot; cols=&quot;35&quot; placeholder=&quot;From a friend? Tell me more...&quot; name=&quot;entry.839337160&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
      &lt;br /&gt;
     &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">6 Browsers for Web Developers: Which one do you use?</title><link href="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html" rel="alternate" type="text/html" title="6 Browsers for Web Developers: Which one do you use?" /><published>2019-09-26T08:00:00-04:00</published><updated>2019-09-26T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2019/09/26/browser-support-web-development</id><content type="html" xml:base="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html">&lt;p&gt;This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a developer gets used to one, they may neglect the others - until it comes time for testing. Admit it, this is familiar to you too, right?&lt;/p&gt;
+&lt;/form&gt;
+&lt;p&gt;&lt;sub&gt;Form created with Google Forms.&lt;/sub&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">6 Browsers for Web Developers: Which one do you use?</title><link href="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html" rel="alternate" type="text/html" title="6 Browsers for Web Developers: Which one do you use?" /><published>2019-09-26T08:00:00-04:00</published><updated>2019-09-26T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2019/09/26/browser-support-web-development</id><content type="html" xml:base="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html">&lt;p&gt;This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a developer gets used to one, they may neglect the others - until it comes time for testing. Admit it, this is familiar to you too, right?&lt;/p&gt;
 
 &lt;p&gt;According to W3Counter, &lt;strong&gt;Chrome (56.8%)&lt;/strong&gt; is the &lt;a href=&quot;https://www.w3counter.com/globalstats.php&quot; target=&quot;_blank&quot;&gt;most popular browser&lt;/a&gt; amongst users followed by &lt;strong&gt;Safari (12.3%)&lt;/strong&gt; as second, then &lt;strong&gt;Internet Explorer and Edge (7.8%)&lt;/strong&gt;, &lt;strong&gt;FireFox (5.3%)&lt;/strong&gt;, and lastly &lt;strong&gt;Opera (2.1%)&lt;/strong&gt;.&lt;/p&gt;
 
