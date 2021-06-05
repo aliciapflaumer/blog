@@ -11,7 +11,7 @@ Have you ever had a friendship that was the kind that after months, even years, 
 
 I have. 
 
-Back when we were roommates –– in a pre-digital time when color 35mm film was the medium of choice –– I had taken a photo of my friend Heather in her bedroom/studio. In the photo, she is crouching down in front of one of her large paintings. 
+Back when we were roommates –– in a pre-digital time when color 35mm film was the medium of choice –– I had taken a photo of my friend Heather in her bedroom/studio. In the photo, she is crouching down next to one of her paintings. 
 
 Heather was an artist, whose work was dreamlike, before she passed away unexpectedly in 2017. 
 
@@ -37,10 +37,10 @@ form label {line-height: 2.75rem}
     <input type="text" size="30" placeholder="" name="entry.1166974658" required>
     <br />
     <label>What is your area of artistic focus?<sup>*</sup></label><br>
-    <textarea rows="5" cols="50" placeholder="Painting, Sculpture, Photography..." name="entry.1578248611" required></textarea>
+    <textarea rows="5" cols="40" placeholder="Painting, Sculpture, Photography..." name="entry.1578248611" required></textarea>
     <br />
     <label>Explain how you heard about The Collaborative Artists Project.<sup>*</sup></label><br>
-    <textarea rows="5" cols="50" placeholder="From a friend? Tell me more..." name="entry.839337160" required></textarea>
+    <textarea rows="5" cols="40" placeholder="From a friend? Tell me more..." name="entry.839337160" required></textarea>
      <br />
     <button type="submit">Send</button>
 </form>
