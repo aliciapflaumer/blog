@@ -1,6 +1,6 @@
 # Blog (in my own words)
 
-This blog is Jekyll-based, posts are written in the Atom text editor and pushed to this repo to make posts live.
+This blog is Jekyll-based, posts are written in a favorite code editor and pushed to this repo to make posts live.
 
 --
 
