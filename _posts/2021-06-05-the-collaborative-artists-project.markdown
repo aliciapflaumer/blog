@@ -15,7 +15,7 @@ Back when we were roommates –– in a pre-digital time when color 35mm film wa
 
 Heather was an artist, whose work was dreamlike, before she passed away unexpectedly in 2017. 
 
-Artists inspire artists and this photo of Heather has become the inspiration behind an idea. As part of an interest in seeing the process of how creativity flows, as a side project from my current full-time job, I hope to create a photography documentary series depicting various artists –– of different styles and media –– in their own creative space. 
+Artists inspire artists and this photo of Heather has become the inspiration behind an idea. As part of an interest in the process of how creativity flows, as a side project from my current full-time job, I hope to create a photography documentary series depicting various artists –– of different styles and media –– in their own creative space. 
 
 If you would like to participate and be featured, or know someone who would, I'd love to hear from you. Please fill out the contact form below and let's collaborate! 
 
