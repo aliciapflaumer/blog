@@ -20,7 +20,7 @@ Artists inspire artists and this photo of Heather has become the inspiration beh
 If you would like to participate and be featured, or know someone who would, I'd love to hear from you. Please fill out the contact form below and let's collaborate! 
 
 *Local to northeastern states of the US – especially Rhode Island, Massachusetts.*<br>
-*18+ years of age*
+*21+ years of age*
 
 <style>
 form label {line-height: 2.75rem}
