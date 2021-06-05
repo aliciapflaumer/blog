@@ -37,10 +37,10 @@ form label {line-height: 2.75rem}
     <input type="text" size="30" placeholder="" name="entry.1166974658" required>
     <br />
     <label>What is your area of artistic focus?<sup>*</sup></label><br>
-    <textarea rows="5" cols="40" placeholder="Painting, Sculpture, Photography..." name="entry.1578248611" required></textarea>
+    <textarea rows="5" cols="35" placeholder="Painting, Sculpture, Photography..." name="entry.1578248611" required></textarea>
     <br />
     <label>Explain how you heard about The Collaborative Artists Project.<sup>*</sup></label><br>
-    <textarea rows="5" cols="40" placeholder="From a friend? Tell me more..." name="entry.839337160" required></textarea>
+    <textarea rows="5" cols="35" placeholder="From a friend? Tell me more..." name="entry.839337160" required></textarea>
      <br />
     <button type="submit">Send</button>
 </form>
