@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2021-06-05T09:01:06-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Alicia Pflaumer</title><subtitle>Writings about art, new technologies, and projects</subtitle><entry><title type="html">The Collaborative Artists Project</title><link href="http://localhost:4000/blog/web/2021/06/06/the-collaborative-artists-project.html" rel="alternate" type="text/html" title="The Collaborative Artists Project" /><published>2021-06-06T08:00:00-04:00</published><updated>2021-06-06T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2021/06/06/the-collaborative-artists-project</id><content type="html" xml:base="http://localhost:4000/blog/web/2021/06/06/the-collaborative-artists-project.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/collaborative-artists-project.jpg&quot; alt=&quot;Collaborative-Artists-Project&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2021-06-05T10:40:09-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Alicia Pflaumer</title><subtitle>Writings about art, new technologies, and projects</subtitle><entry><title type="html">The Collaborative Artists Project</title><link href="http://localhost:4000/blog/web/2021/06/06/the-collaborative-artists-project.html" rel="alternate" type="text/html" title="The Collaborative Artists Project" /><published>2021-06-06T08:00:00-04:00</published><updated>2021-06-06T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2021/06/06/the-collaborative-artists-project</id><content type="html" xml:base="http://localhost:4000/blog/web/2021/06/06/the-collaborative-artists-project.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/blog/assets/collaborative-artists-project.jpg&quot; alt=&quot;Collaborative-Artists-Project&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Have you ever had a friendship that was the kind that after months, even years, without seeing each other. You are able to pick up where you both left off from the last time?&lt;/p&gt;
 
@@ -6,30 +6,31 @@
 
 &lt;p&gt;Back when we were roommates –– in a pre-digital time when color 35mm film was the medium of choice –– I had taken a photo of my friend Heather in her bedroom/studio. In the photo, she is crouching down in front of one of her large paintings.&lt;/p&gt;
 
-&lt;p&gt;Heather was an artist, whose work was dreamlike, before she passed away unexpected in 2017.&lt;/p&gt;
+&lt;p&gt;Heather was an artist, whose work was dreamlike, before she passed away unexpectedly in 2017.&lt;/p&gt;
 
-&lt;p&gt;Artists inspire artists and this photo of Heather has become the inspiration behind an idea. I hope to create a photography documentary series depicting various artists –– of different styles and media –– in their own creative space.&lt;/p&gt;
+&lt;p&gt;Artists inspire artists and this photo of Heather has become the inspiration behind an idea. As part of an interest in seeing the process of how creativity flows, as a side project from my current full-time job, I hope to create a photography documentary series depicting various artists –– of different styles and media –– in their own creative space.&lt;/p&gt;
 
-&lt;p&gt;If you would like to participate and featured, or know someone who would, I’d love to hear from you. Let’s collaborate!&lt;/p&gt;
+&lt;p&gt;If you would like to participate and be featured, or know someone who would, I’d love to hear from you. Let’s collaborate!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;*Local to northeastern states of the US – especially Rhode Island, Massachusetts.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;*18+ years of age&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Local to northeastern states of the US – especially Rhode Island, Massachusetts.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;18+ years of age&lt;/em&gt;&lt;/p&gt;
 
-&lt;form action=&quot;https://docs.google.com/forms/d/1CNGfWfiSGjZiQ96NkYInZ6dBEU0GAE7PS2J97-Bb-lw/&quot; method=&quot;post&quot;&gt;
-    &lt;label&gt;Name*&lt;/label&gt;
-    &lt;input type=&quot;text&quot; placeholder=&quot;First and last name&quot; name=&quot;&quot; required=&quot;&quot; /&gt;
+&lt;p&gt;&lt;sup&gt;*&lt;/sup&gt;Required fields&lt;/p&gt;
+&lt;form action=&quot;https://docs.google.com/forms/d/e/1FAIpQLSc_UITLvESAylJJxodlNgEbEU0_GVNcCjOX9VWhwj6P-YyOlA/formResponse&quot; method=&quot;post&quot;&gt;
+    &lt;label&gt;Name&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
+    &lt;input type=&quot;text&quot; placeholder=&quot;First and last name&quot; name=&quot;entry.2005620554&quot; required=&quot;&quot; /&gt;
     &lt;br /&gt;
-    &lt;label&gt;Email*&lt;/label&gt;
-    &lt;input type=&quot;email&quot; placeholder=&quot;Email address&quot; name=&quot;&quot; required=&quot;&quot; /&gt;
+    &lt;label&gt;Email&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
+    &lt;input type=&quot;email&quot; placeholder=&quot;Email address&quot; name=&quot;entry.1045781291&quot; required=&quot;&quot; /&gt;
     &lt;br /&gt;
-    &lt;label&gt;Phone number*&lt;/label&gt;
-    &lt;input type=&quot;text&quot; placeholder=&quot;Phone number&quot; name=&quot;&quot; required=&quot;&quot; /&gt;
+    &lt;label&gt;Phone number&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;
+    &lt;input type=&quot;text&quot; placeholder=&quot;Phone number&quot; name=&quot;entry.1166974658&quot; required=&quot;&quot; /&gt;
     &lt;br /&gt;
-    &lt;label&gt;What is your area of artistic focus?&lt;/label&gt;&lt;br /&gt;
-    &lt;textarea rows=&quot;5&quot; placeholder=&quot;Painting, Sculpture, Photography...&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
+    &lt;label&gt;What is your area of artistic focus?&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;&lt;br /&gt;
+    &lt;textarea rows=&quot;5&quot; placeholder=&quot;Painting, Sculpture, Photography...&quot; name=&quot;entry.1578248611&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
     &lt;br /&gt;
-    &lt;label&gt;Explain how you heard about The Collaborative Artists Project.*&lt;/label&gt;&lt;br /&gt;
-    &lt;textarea rows=&quot;5&quot; placeholder=&quot;Tell me more...&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
+    &lt;label&gt;Explain how you heard about The Collaborative Artists Project.&lt;sup&gt;*&lt;/sup&gt;&lt;/label&gt;&lt;br /&gt;
+    &lt;textarea rows=&quot;5&quot; placeholder=&quot;Tell me more...&quot; name=&quot;entry.839337160&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
      &lt;br /&gt;
     &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
 &lt;/form&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">6 Browsers for Web Developers: Which one do you use?</title><link href="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html" rel="alternate" type="text/html" title="6 Browsers for Web Developers: Which one do you use?" /><published>2019-09-26T08:00:00-04:00</published><updated>2019-09-26T08:00:00-04:00</updated><id>http://localhost:4000/blog/web/2019/09/26/browser-support-web-development</id><content type="html" xml:base="http://localhost:4000/blog/web/2019/09/26/browser-support-web-development.html">&lt;p&gt;This post is about the various web browsers that software developers have to choose from – picking a favorite gets to be some kind of a lottery. Once a developer gets used to one, they may neglect the others - until it comes time for testing. Admit it, this is familiar to you too, right?&lt;/p&gt;

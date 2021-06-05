@@ -13,30 +13,31 @@ I have.
 
 Back when we were roommates –– in a pre-digital time when color 35mm film was the medium of choice –– I had taken a photo of my friend Heather in her bedroom/studio. In the photo, she is crouching down in front of one of her large paintings. 
 
-Heather was an artist, whose work was dreamlike, before she passed away unexpected in 2017. 
+Heather was an artist, whose work was dreamlike, before she passed away unexpectedly in 2017. 
 
-Artists inspire artists and this photo of Heather has become the inspiration behind an idea. I hope to create a photography documentary series depicting various artists –– of different styles and media –– in their own creative space. 
+Artists inspire artists and this photo of Heather has become the inspiration behind an idea. As part of an interest in seeing the process of how creativity flows, as a side project from my current full-time job, I hope to create a photography documentary series depicting various artists –– of different styles and media –– in their own creative space. 
 
-If you would like to participate and featured, or know someone who would, I'd love to hear from you. Let's collaborate! 
+If you would like to participate and be featured, or know someone who would, I'd love to hear from you. Let's collaborate! 
 
-**Local to northeastern states of the US – especially Rhode Island, Massachusetts.*<br>
-**18+ years of age*
+*Local to northeastern states of the US – especially Rhode Island, Massachusetts.*<br>
+*18+ years of age*
 
-<form action="https://docs.google.com/forms/d/1CNGfWfiSGjZiQ96NkYInZ6dBEU0GAE7PS2J97-Bb-lw/" method="post">
-    <label>Name*</label>
-    <input type="text" placeholder="First and last name" name="" required>
+<p><sup>*</sup>Required fields</p>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSc_UITLvESAylJJxodlNgEbEU0_GVNcCjOX9VWhwj6P-YyOlA/formResponse" method="post">
+    <label>Name<sup>*</sup></label>
+    <input type="text" placeholder="First and last name" name="entry.2005620554" required>
     <br>
-    <label>Email*</label>
-    <input type="email" placeholder="Email address" name="" required>
+    <label>Email<sup>*</sup></label>
+    <input type="email" placeholder="Email address" name="entry.1045781291" required>
     <br>
-    <label>Phone number*</label>
-    <input type="text" placeholder="Phone number" name="" required>
+    <label>Phone number<sup>*</sup></label>
+    <input type="text" placeholder="Phone number" name="entry.1166974658" required>
     <br>
-    <label>What is your area of artistic focus?</label><br>
-    <textarea rows="5" placeholder="Painting, Sculpture, Photography..." required></textarea>
+    <label>What is your area of artistic focus?<sup>*</sup></label><br>
+    <textarea rows="5" placeholder="Painting, Sculpture, Photography..." name="entry.1578248611" required></textarea>
     <br>
-    <label>Explain how you heard about The Collaborative Artists Project.*</label><br>
-    <textarea rows="5" placeholder="Tell me more..." required></textarea>
+    <label>Explain how you heard about The Collaborative Artists Project.<sup>*</sup></label><br>
+    <textarea rows="5" placeholder="Tell me more..." name="entry.839337160" required></textarea>
      <br>
     <button type="submit">Send</button>
 </form>
