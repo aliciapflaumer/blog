@@ -7,7 +7,7 @@ categories: web
 
 ![Collaborative-Artists-Project]({{ "/assets/collaborative-artists-project.jpg" | absolute_url }})
 
-Have you ever had a friendship that was the kind that after months, even years, without seeing each other. You are able to pick up where you both left off from the last time?
+Have you ever had a friendship that was the kind that after months, even years, without seeing each other, you are able to pick up where you both left off from the last time?
 
 I have. 
 
