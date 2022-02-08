@@ -33,7 +33,7 @@ All of the browsers have the ability to test responsiveness across multiple scre
 *Safari dev tools:*<br>
 ![Safari-Dev-Tools]({{ "/assets/safari-dev-tools.jpg" | absolute_url }})
 
-While the console seems to be similiar across all browsers, some different features standout in a few. Such as, Safari's tool to add rulers to a page:
+While the console seems to be similiar across all browsers, some different features standout in a few. Such as, Safari's tool to add rulers to a page, to help with alignment.
 
 ![Safari-Console-Tools]({{ "/assets/safari-console-rulers.jpg" | absolute_url }})
 
