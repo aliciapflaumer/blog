@@ -16,7 +16,7 @@ I have decided to take a little break from using some social media apps. To help
 
 ### Background 
 
-Generally I am finding social media to not be useful — or at least consider it to be very low on the useful scale — aside from using it for business, keeping in touch with connections, and it has been helpful in parts of the world that have seen wars and in countries contolled by dictatorship. Aside from that, lately I am finding it to be a distraction and despite the use of the phrase 'social media' I'm finding it to be disconnecting and addictive.
+Generally I am finding social media to not be useful — or at least consider it to be very low on the useful scale — aside from using it for business, keeping in touch with connections, and it has been helpful in parts of the world that have seen wars and in countries controlled by dictatorship. Aside from that, lately I am finding it to be a distraction and despite the use of the phrase 'social media' I'm finding it to be disconnecting and addictive.
 
 Yes it is designed to connect the world to each other — and that can be great — but I feel that it is also designed to be an addiction to its users. It all depends on how many followers one might have, how much do they interact and to what content they are interacting with, what they are posting themselves and how other people are interacting with their content, it all feeds into the addictive part of the brain making us more distracted, anxious, and maybe more self-centered – and the social media companies win by getting more revenue from advertisers, it is a business afterall, and the users are the product.
 
