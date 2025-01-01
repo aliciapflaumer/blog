@@ -4,13 +4,13 @@ title:  "Hodgepodge in a reading list"
 date:   2018-05-07 14:30:00
 categories: self
 ---
-![Reading-List-Photo]({{ "/assets/reading-list-photo.jpg" | absolute_url }})
+![A laptop keyboard, hardcover notebook, and a pencil.]({{ "/assets/reading-list-photo.jpg" | absolute_url }})
 
 A list of books I'm currently reading, want to read, and have read, as well as articles I found interesting, in relation to obtaining self-driven goals.
 
 **Updated: Sept 16, 2020**
 
-# Have Read
+### Have Read
 
 "[Girl Decoded](https://www.amazon.com/gp/product/1984824767/){:target="_blank"}" by Rana el Kaliouby
 >Essentially about a woman who, through cultural discovery, learned that it is okay to be yourself, take risks, and make "crazy ideas" come true.
@@ -36,7 +36,7 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 
 "[No Walls and the Recurring Dream: A Memoir](https://www.amazon.com/gp/product/B07JYSMCK1/){:target="_blank"}" by Ani DiFranco
 
-# Currently Reading
+### Currently Reading
 
 "[Affective Computing](https://www.amazon.com/gp/product/0262661152/){:target="_blank"}" by Rosalind Picard
 >I discovered this book when reading "Girl Decoded", Picard was a mentor of Rana el Kaliouby and the two co-founded Affectiva.
@@ -47,13 +47,13 @@ A list of books I'm currently reading, want to read, and have read, as well as a
 
 "[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/B001GSTOAM/){:target="_blank"}" by Robert C. Martin
 
-# Want to Read
+### Want to Read
 
 "[Reinvention Roadmap: Break the Rules to Get the Job You Want and Career You Deserve](https://www.amazon.com/dp/1942952686/){:target="_blank"}" by Liz Ryan
 
 "[Self-Promotion for Introverts: The Quiet Guide to Getting Ahead](https://www.amazon.com/dp/007159129X/){:target="_blank"}" by Nancy Ancowitz
 
-# Articles
+### Articles
 
 "[Change Your Career Without Having to Start All Over Again](https://hbr.org/2016/05/change-your-career-without-having-to-start-all-over-again){:target="_blank"}" by Dorie Clark, Harvard Business Review
 
